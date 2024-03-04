@@ -50,7 +50,7 @@ h2 {
 }
 
 .row input{
-    flex: 1; /*text full availabe width*/
+    flex: 1; 
     border:none ;
     outline: none;
     padding: 10px;
@@ -67,7 +67,6 @@ h2 {
     border: none;
     outline: none;
     padding: 16px 30px;
-    /* background:linear-gradient(45deg,#161823,#16386a) ; */
     background: #282726;
     color: #fff;
     font-size: 18px;
